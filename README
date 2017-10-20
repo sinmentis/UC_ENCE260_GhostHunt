@@ -1,0 +1,47 @@
+=======================================================
+   _____ _               _     _    _             _   
+  / ____| |             | |   | |  | |           | |  
+ | |  __| |__   ___  ___| |_  | |__| |_   _ _ __ | |_ 
+ | | |_ | '_ \ / _ \/ __| __| |  __  | | | | '_ \| __|
+ | |__| | | | | (_) \__ \ |_  | |  | | |_| | | | | |_ 
+  \_____|_| |_|\___/|___/\__| |_|  |_|\__,_|_| |_|\__|
+                                                      
+=======================================================
+
+			            TEAM 442
+
+-------------------------------------------------------
+Shun Lyu 48395052
+Mike Muldrew 42852395
+Date: 27/10/2017
+-------------------------------------------------------
+
+                       GAME INTRO
+
+-------------------------------------------------------
+This is a multi-user interactive game build for UCfunkit
+which based on ATmega32u2 microcontroller.
+There is no win for human, so you already lose the game.
+
+The rules are simply. 
+1. The human purpuse is keep running from the ghost.
+2. The ghost is trying to catch the human.
+3. Human can see where the ghost is but move slowly.
+4. Ghost can move faster than human but can't see human.
+-------------------------------------------------------
+
+                      How to start
+
+-------------------------------------------------------
+Before beginning, make sure the UCFunkit has been reset
+first, pressing the white button above the navswitch
+(button S2).Download game.c and makefile on your computer
+and open terminal window, type [make program] twice with
+Funkit plugged in.
+
+When the [SELECT] showed up, using navswitch can choose
+different roles and press navswitch for select it.Once 
+you select the role you will get a display on the screen
+says what you just select. Press general-purpose button 
+can bring you to the map. 
+-------------------------------------------------------
