@@ -1,5 +1,5 @@
 /** @file   game.c
-    @author Shun Lyu && Mike Muldrew
+    @author Shun Lyu
     @date   15 October 2017
     @brief  A simple ghost hunt game. Human can see where ghost is, but ghost move faster.
 */
